@@ -1,0 +1,36 @@
+* {
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+.button {
+    background-color: gray;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    width: auto;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: lightgray;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    width: auto;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.basic {
+    background-color: lightgray;
+    color: black;
+    margin: 0px;
+    padding: 10px;
+    width: 400px;
+    display: inline-block;
+    border-radius: 10px;
+}
