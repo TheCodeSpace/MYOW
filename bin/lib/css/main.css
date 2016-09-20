@@ -7,9 +7,9 @@
 /*Embed Snippet*/
 .download {
     color: black;
-    margin: 10px;
+    margin: 15px;
     border-radius: 10px;
-    font-style: italic;
+
 }
 
 
@@ -26,11 +26,11 @@
     border-radius: 10px;
     width: auto;
     height: 70;
-    color: gray;
+    background-color: gray;
 }
 
 .img {
-    margin: 10px;
+    margin: 5px;
     border-radius: 10px;
 }
 
